@@ -1,0 +1,82 @@
+[
+ {
+   "date": "2020-01-08",
+   "hour": "Meter to Bill",
+   "series1": 0,
+   "series2": 0,
+   "series3": 28,
+   "series4": -14
+ },
+ {
+   "date": "2020-01-08",
+   "hour": "Product and Pricing",
+   "series1": 0,
+   "series2": 0,
+   "series3": 13,
+   "series4": -2
+ },
+ {
+   "date": "2020-01-08",
+   "hour": "Tech only (NON PO)",
+   "series1": 0,
+   "series2": 0,
+   "series3": 9,
+   "series4": -9
+ },
+ {
+   "date": "2020-01-08",
+   "hour": "Sales Fulfilment & New Connections",
+   "series1": 0,
+   "series2": 0,
+   "series3": 37,
+   "series4": -7
+ },
+ {
+   "date": "2020-01-08",
+   "hour": "Service, Advocacy and Collateral",
+   "series1": 6,
+   "series2": 0,
+   "series3": 7,
+   "series4": -3
+ },
+ {
+   "date": "2020-01-08",
+   "hour": "C&I Operations",
+   "series1": 0,
+   "series2": -6,
+   "series3": 10,
+   "series4": -3
+ },
+ {
+   "date": "2020-01-08",
+   "hour": "Credit, Collections and Payments",
+   "series1": 0,
+   "series2": 0,
+   "series3": 17,
+   "series4": -10
+ },
+ {
+   "date": "2020-01-08",
+   "hour": "Remediation",
+   "series1": 0,
+   "series2": 0,
+   "series3": 0,
+   "series4": -1
+ },
+ {
+   "date": "2020-01-08",
+   "hour": "Self Service Channels",
+   "series1": 0,
+   "series2": 0,
+   "series3": 0,
+   "series4": -1
+ },
+ {
+   "date": "2020-01-08",
+   "hour": "Workforce Management",
+   "series1": 0,
+   "series2": 0,
+   "series3": 0,
+   "series4": -4
+ }
+]
